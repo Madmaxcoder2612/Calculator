@@ -1,0 +1,24 @@
+num1 = float(input("Enter first number : "))
+operation = input("Enter the operation : ")
+num2 = float(input("Enter second number : "))
+
+operation1 = "+"
+operation2 = "-"
+operation3 = "*"
+operation4 = "/"
+
+
+if operation==operation1:
+    print("Result :", num1+num2)
+
+elif operation==operation2:
+    print("Result :", num1-num2)
+
+elif operation==operation3:
+    print("Result :", num1*num2)
+
+
+elif operation==operation4:
+    print("Result :", num1/num2)
+
+
