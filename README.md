@@ -1,4 +1,4 @@
-# Calculat_GUI
+# Calculat
 
 This calculator was made with python (tkinter)
 
