@@ -1,3 +1,5 @@
-# Calculator
+#Calculat_GUI
 
-Simple Calculator with Python
+This calculator was made with python (tkinter)
+
+Have Fun !
